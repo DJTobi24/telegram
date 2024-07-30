@@ -36,12 +36,6 @@ Dadurch erhältst du eine Gruppen-ID die mit "-" anfängt
 ## Im Nächsten Schritt erstellen wir den Code.
 Dafür musst du die Arduino IDE herunterladen.
 
-Hier gehts zu dem Code denn wir benötigen mit ein paar extras:
-
-https://gitlab.betasonne.de/djtobi24/drueck-mich/-/tree/main
-
-
-
 Ändere einfach deine WLAN-Daten und deine Bot Daten.
 
 hier noch die Pins die du Benötigst
